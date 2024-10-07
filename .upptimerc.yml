@@ -99,6 +99,18 @@ sites:
     url: etsy.com
   - name: Adobe
     url: adobe.com
+  - name: 208.67.222.222
+    url: 208.67.222.222
+  - name: 208.67.220.220
+    url: 208.67.220.220
+  - name: 1.1.1.1
+    url: 1.1.1.1
+  - name: 1.0.0.1
+    url: 1.0.0.1
+  - name: 8.8.8.8
+    url: 8.8.8.8
+  - name: 8.8.4.4
+    url: 8.8.4.4
 
 
 status-website:
