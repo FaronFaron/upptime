@@ -1,104 +1,7 @@
-# Change these first
 owner: FaronFaron # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: google.com
-  - name: Youtube
-    url: youtube.com
-  - name: Facebook
-    url: facebook.com
-  - name: Reddit
-    url: reddit.com
-  - name: Twitter
-    url: twitter.com
-  - name: Instagram
-    url: instagram.com
-  - name: Linkedin
-    url: linkedin.com
-  - name: Netflix
-    url: netflix.com
-  - name: Twitch
-    url: twitch.tv
-  - name: Steam
-    url: store.steampowered.com
-  - name: Discordapp
-    url: discordapp.com
-  - name: Amazon
-    url: amazon.com
-  - name: Wikipedia
-    url: wikipedia.org
-  - name: Yahoo
-    url: yahoo.com
-  - name: Ebay
-    url: ebay.com
-  - name: Baidu
-    url: baidu.com
-  - name: Imgur
-    url: imgur.com
-  - name: Craigslist
-    url: craigslist.org
-  - name: Imdb
-    url: imdb.com
-  - name: Pinterest
-    url: pinterest.com
-  - name: Paypal
-    url: paypal.com
-  - name: Stackoverflow
-    url: stackoverflow.com
-  - name: Tumblr
-    url: tumblr.com
-  - name: Live
-    url: live.com
-  - name: Chase
-    url: chase.com
-  - name: Bing
-    url: bing.com
-  - name: Fandom
-    url: fandom.com
-  - name: Espn
-    url: espn.com
-  - name: Cnn
-    url: cnn.com
-  - name: Office
-    url: office.com
-  - name: Microsoft
-    url: microsoft.com
-  - name: Hulu
-    url: hulu.com
-  - name: Nytimes
-    url: nytimes.com
-  - name: Force
-    url: force.com
-  - name: Salesforce
-    url: salesforce.com
-  - name: Alibaba
-    url: alibaba.com
-  - name: Github
-    url: github.com
-  - name: Apple
-    url: apple.com
-  - name: Zillow
-    url: zillow.com
-  - name: Walmart
-    url: walmart.com
-  - name: Yelp
-    url: yelp.com
-  - name: Bankofamerica
-    url: bankofamerica.com
-  - name: Weather
-    url: weather.com
-  - name: Dropbox
-    url: dropbox.com
-  - name: Wellsfargo
-    url: wellsfargo.com
-  - name: Indeed
-    url: indeed.com
-  - name: Etsy
-    url: etsy.com
-  - name: Adobe
-    url: adobe.com
   - name: 208.67.222.222
     url: 208.67.222.222
   - name: 208.67.220.220
@@ -111,7 +14,8 @@ sites:
     url: 8.8.8.8
   - name: 8.8.4.4
     url: 8.8.4.4
-
+  - name: cineb.rs
+    url: cineb.rs
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -126,6 +30,3 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
