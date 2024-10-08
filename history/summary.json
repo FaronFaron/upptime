@@ -16,7 +16,7 @@
     "timeMonth": 10,
     "timeYear": 10,
     "dailyMinutesDown": {
-      "2024-10-08": 877,
+      "2024-10-08": 886,
       "2024-10-07": 934
     }
   },
@@ -37,7 +37,7 @@
     "timeMonth": 6,
     "timeYear": 6,
     "dailyMinutesDown": {
-      "2024-10-08": 877,
+      "2024-10-08": 886,
       "2024-10-07": 934
     }
   },
@@ -94,7 +94,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-08": 877,
+      "2024-10-08": 886,
       "2024-10-07": 933
     }
   },
@@ -115,7 +115,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-08": 877,
+      "2024-10-08": 886,
       "2024-10-07": 933
     }
   },
@@ -124,19 +124,19 @@
     "url": "cineb.rs",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cineb-rs",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 658,
-    "timeDay": 585,
-    "timeWeek": 658,
-    "timeMonth": 658,
-    "timeYear": 658,
+    "status": "up",
+    "uptime": "99.51%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.51%",
+    "uptimeYear": "99.51%",
+    "time": 619,
+    "timeDay": 557,
+    "timeWeek": 619,
+    "timeMonth": 619,
+    "timeYear": 619,
     "dailyMinutesDown": {
-      "2024-10-08": 0
+      "2024-10-08": 9
     }
   }
 ]
