@@ -16,7 +16,7 @@
     "timeMonth": 8,
     "timeYear": 8,
     "dailyMinutesDown": {
-      "2024-10-13": 1231,
+      "2024-10-13": 1238,
       "2024-10-12": 1440,
       "2024-10-11": 1440,
       "2024-10-10": 1440,
@@ -42,7 +42,7 @@
     "timeMonth": 29,
     "timeYear": 29,
     "dailyMinutesDown": {
-      "2024-10-13": 1231,
+      "2024-10-13": 1238,
       "2024-10-12": 1440,
       "2024-10-11": 1440,
       "2024-10-10": 1440,
@@ -104,7 +104,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-13": 1231,
+      "2024-10-13": 1238,
       "2024-10-12": 1440,
       "2024-10-11": 1440,
       "2024-10-10": 1440,
@@ -130,7 +130,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-13": 1231,
+      "2024-10-13": 1238,
       "2024-10-12": 1440,
       "2024-10-11": 1440,
       "2024-10-10": 1440,
@@ -144,19 +144,19 @@
     "url": "cineb.rs",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cineb-rs",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 821,
-    "timeDay": 678,
-    "timeWeek": 821,
-    "timeMonth": 821,
-    "timeYear": 821,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 1403,
+    "timeDay": 3244,
+    "timeWeek": 1403,
+    "timeMonth": 1403,
+    "timeYear": 1403,
     "dailyMinutesDown": {
-      "2024-10-13": 0
+      "2024-10-13": 7
     }
   },
   {
@@ -165,18 +165,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "archive-org",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 156,
     "timeDay": 156,
     "timeWeek": 156,
     "timeMonth": 156,
     "timeYear": 156,
     "dailyMinutesDown": {
-      "2024-10-13": 768
+      "2024-10-13": 775
     }
   }
 ]
