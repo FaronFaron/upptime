@@ -16,7 +16,7 @@
     "timeMonth": 7,
     "timeYear": 7,
     "dailyMinutesDown": {
-      "2024-10-26": 833,
+      "2024-10-26": 1137,
       "2024-10-25": 1440,
       "2024-10-24": 1440,
       "2024-10-23": 1440,
@@ -55,7 +55,7 @@
     "timeMonth": 35,
     "timeYear": 35,
     "dailyMinutesDown": {
-      "2024-10-26": 833,
+      "2024-10-26": 1137,
       "2024-10-25": 1440,
       "2024-10-24": 1440,
       "2024-10-23": 1440,
@@ -130,7 +130,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-26": 833,
+      "2024-10-26": 1137,
       "2024-10-25": 1440,
       "2024-10-24": 1440,
       "2024-10-23": 1440,
@@ -169,7 +169,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-26": 833,
+      "2024-10-26": 1137,
       "2024-10-25": 1440,
       "2024-10-24": 1440,
       "2024-10-23": 1440,
@@ -196,9 +196,9 @@
     "url": "cineb.rs",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cineb-rs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
@@ -208,6 +208,7 @@
     "timeMonth": 1272,
     "timeYear": 1272,
     "dailyMinutesDown": {
+      "2024-10-26": 0,
       "2024-10-15": 16
     }
   },
@@ -217,11 +218,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "archive-org",
     "status": "up",
-    "uptime": "10.88%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "20.61%",
-    "uptimeMonth": "10.88%",
-    "uptimeYear": "10.88%",
+    "uptime": "12.28%",
+    "uptimeDay": "21.11%",
+    "uptimeWeek": "23.62%",
+    "uptimeMonth": "12.28%",
+    "uptimeYear": "12.28%",
     "time": 652,
     "timeDay": 59,
     "timeWeek": 216,
