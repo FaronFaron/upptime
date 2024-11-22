@@ -1,7 +1,7 @@
 url: cineb.rs
-status: up
-code: 200
-responseTime: 515
-lastUpdated: 2024-11-21T23:09:30.326Z
+status: down
+code: 502
+responseTime: 1589
+lastUpdated: 2024-11-22T03:51:32.609Z
 startTime: 2024-10-07T08:40:02.233Z
 generator: Upptime <https://github.com/upptime/upptime>
