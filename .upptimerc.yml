@@ -18,6 +18,10 @@ sites:
     url: cineb.rs
   - name: Archive.org
     url: Archive.org
+  - name: IPv6 test
+    url: 2GBZ.aternos.me
+    port: 30825
+    check: "tcp-ping"
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
